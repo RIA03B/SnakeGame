@@ -1,3 +1,5 @@
+//This function is to determine where the location of the food will be (random location).
+//The fuction also draws the food.
 function Food() {
     this.x;
     this.y;  
